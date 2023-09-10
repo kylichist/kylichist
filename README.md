@@ -1,1 +1,1 @@
-![](main_pic.png)
+
