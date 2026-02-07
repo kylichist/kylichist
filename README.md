@@ -15,9 +15,9 @@ My current occupation:
 
 My projects:
 - [esw2g](https://github.com/kylichist/esw2g) (stale) 
--- fork of the game I played in back in school with my friends.
+-- fork of a browser game I used to play back in school with my friends.
 - [kylichist.github.io](https://github.com/kylichist/kylichist.github.io) (stale) 
--- personal website.
+-- my personal website.
 - [lakhta-tracker](https://github.com/kylichist/lakhta-tracker) (archived) 
 -- ticket scraper bot.
 - Some private projects, not available on GitHub.
